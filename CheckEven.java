@@ -10,12 +10,19 @@ public class CheckEven{
 		int userInput = sc.nextInt();
 		
 		if(userInput % 2 == 0) {
+<<<<<<< HEAD
 			System.out.println("The number : " + userInput + " Is even.");
 		}else {
 			System.out.println("The number : " + userInput + " is odd.");			
 		}
 		
 	
+=======
+			System.out.println("The number: " + userInput + " Is even.");
+		}else {
+			System.out.println("The number: " + userInput + " is odd.");			
+		}
+>>>>>>> ef2eddfb08f7c733152ceb0448c2c24109855b3e
 	
 	}
 }
