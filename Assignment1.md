@@ -6,5 +6,8 @@ Question 1 :
 
 Question 2 : 
 	Write a program to print fibonacci series uptill n numbers, where we take n from user.
-	
+
+
+ Question 3 : 
+ 	Write a program to do something.
 	
